@@ -1,0 +1,5 @@
+1. https://github.com/Nova-Drive/404-Lab-4/tree/main
+
+2. A splash page saying the install worked successfully 
+
+3. 
