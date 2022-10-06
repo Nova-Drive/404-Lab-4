@@ -2,4 +2,15 @@
 
 2. A splash page saying the install worked successfully 
 
-3. 
+3. a. Shows a 404 error. b. Shows the text in polls/views.py
+
+4. Makemigrations makes the scripts to change the database, Migrate runs the scripts. Needed to change the database schema
+
+5. You see all of the models created and a folder called Authentication and Authorization.
+To make more models you make more classes in models.py and register them
+
+6. When inputting a number, you get the appropriate screens. If not you got an error message. I would modify to use a string instead of an integer in urls.py
+
+7. URLs can be dynamic and may need to change
+
+8. It's very easy to set them up, and Django also does a lot of stuff behind the scenes as well. If you need something very very specific its better to not use it.
